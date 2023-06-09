@@ -1,0 +1,6 @@
+Tools Required:
+PostMan/SoapUI
+Intellij IDE
+RabbitMQ
+ERlang
+MySQL Workbench
