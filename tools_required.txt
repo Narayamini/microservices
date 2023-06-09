@@ -4,3 +4,4 @@ Intellij IDE
 RabbitMQ
 ERlang
 MySQL Workbench
+Axon Framework server : https://developer.axoniq.io/download
